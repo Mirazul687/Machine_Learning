@@ -1,0 +1,12 @@
+step 1. topic related research paper ( read ) , chatgpt, perplexity ( deep research) to extract research paper related to this.
+        most of the time should be given here. this is important.
+
+step 2. which method is better ( ML or DL )
+
+step 3. feature engineering helps or not 
+
+step 4. if ML , which ML   or   if DL , which DL
+
+step 5. implementation of this pipeline ( basic and simple )
+
+step 6. continuous improvement of this pipeline.
